@@ -23,7 +23,7 @@ def binarySearch(array, x):
             
     return None
 array_1 = [2,4,6,8,9,10,12,14,16,18,20]
-x_a = 18
+x_a = #Your value
 print(binarySearch(array_1, x_a))
         
 
